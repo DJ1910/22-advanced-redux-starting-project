@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/22-advanced-redux-starting-project/static/css/main.49141c36.css",
+    "main.js": "/22-advanced-redux-starting-project/static/js/main.4de7c905.js",
+    "index.html": "/22-advanced-redux-starting-project/index.html",
+    "main.49141c36.css.map": "/22-advanced-redux-starting-project/static/css/main.49141c36.css.map",
+    "main.4de7c905.js.map": "/22-advanced-redux-starting-project/static/js/main.4de7c905.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49141c36.css",
+    "static/js/main.4de7c905.js"
+  ]
+}
